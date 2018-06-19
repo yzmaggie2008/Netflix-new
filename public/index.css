@@ -1,0 +1,59 @@
+body {
+    background: black;
+    color: white;
+}
+
+h1 {
+    color: red;
+    font-size: 45px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    overflow-x: scroll;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 120px;
+    width: 80%;
+}
+
+.block {
+    margin: 0 10px;
+    text-align: center;
+}
+
+.block img {
+    height: 250px;
+}
+
+.block button {
+    width: 100%;
+}
+
+.title {
+    font-size: 16px;
+}
+
+.remove {
+    visibility: hidden;
+    background: red;
+}
+
+.add {
+    visibility: hidden;
+    background: blue;
+    color: white;
+}
+
+.block:hover button {
+    visibility: visible;
+}
+
+.block:hover img {
+    opacity: 0.8;
+}
