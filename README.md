@@ -1,5 +1,5 @@
-# Apple Coding Assignment
-This is a coding assignment for Apple, which using React.JS and Redux to create a mock Netflix page.<br>
+# Mock Netflix
+This web application using React.JS and Redux to create a mock Netflix page.<br>
 There are two rows, one will be the "My List" and another will be the recommendations. <br>
 <br>
 The __Functions__ including: <br>
